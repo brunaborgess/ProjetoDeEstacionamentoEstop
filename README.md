@@ -1,2 +1,6 @@
-# ProjetoDeEstacionamentoEstop
-Parking project created with Java and MySQL.
+# E-STOP Parking Project  :car:
+
+ ![logo_estop](F:\BRUNA\Técnico em Informática\Projeto Final\logo_estop.png)
+
+## Project created with Java language and integrated with MySQL database. 
+
